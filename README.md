@@ -1,3 +1,5 @@
+This repository is deprecated. See https://github.com/agentlans/name instead.
+
 # SIGN
 
 Script for Initial Generation of Names
